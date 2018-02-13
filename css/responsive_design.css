@@ -1,0 +1,39 @@
+@media only screen and (min-width:44px) and (max-width:555px) {
+.header_top_main ul li a {
+    width: 100%;
+    padding: 0px 0px;
+    font-size: 9px;
+}
+body{ background:red }
+.Logo_left_img img {
+    height: 54px;
+    width: 54px;
+    border-radius: 33px;
+    border: 2px dotted rgb(114, 197, 102);
+    margin: 3px 0px 37px 21px;
+    box-shadow: -39px 4px 83px red;
+	}
+
+.Logo_left_content h1 {
+    font-size: 24px;
+    color: blue;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin: 5px 0px 0px 1px;
+    text-shadow: 6px 2px 4px white;	
+}
+.Logo_left_content h1 span {
+    font-size: 23px;
+    color: rgb(59, 34, 122);
+    margin: 0px 0px 0px 11px;
+    text-shadow: 5px 2px 5px rgb(243, 239, 248);
+}
+.Logo_left_content p {
+    margin: 0px 0px 0px 4px;
+    word-spacing: 2px;
+    letter-spacing: 1px;
+    font-style: italic;
+    font-weight: bold;
+    text-shadow: -1px 2px 2px #131010;
+}
+}
